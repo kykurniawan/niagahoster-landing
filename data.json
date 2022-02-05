@@ -1,0 +1,42 @@
+{
+    "paket": {
+        "type": [
+            {
+                "name": "Bayi",
+                "price": 19900,
+                "afterDiscount": 14900,
+                "registrationCount": 938,
+                "buttonText": "Pilih Sekarang",
+                "feature": "<p><strong>0.5X RESOURCE POWER</strong><br /><strong>500 MB</strong> Disk Space<br /><strong>Unlimited</strong> Bandwidth<br /><strong>Unlimited</strong> Database<br /><strong>1</strong> Domain<br /><strong>Instant</strong> Backup<br/><strong>Unlimited SSL</strong> Gratis Selamanya</p>",
+                "bestSeller": false
+            },
+            {
+                "name": "Pelajar",
+                "price": 46900,
+                "afterDiscount": 23450,
+                "registrationCount": 4168,
+                "buttonText": "Pilih Sekarang",
+                "feature": "<p><strong>1X RESOURCE POWER</strong><br /><strong>Unlimited</strong> Disk Space<br /><strong>Unlimited</strong> Bandwidth<br /><strong>Unlimited</strong> Database<br /><strong>Unlimited</strong> POP3 Email<br /><strong>10</strong> Addon Domains<br /><strong>Instant</strong> Backup<br /><strong>Domain</strong> Gratis Selamanya<br /><strong>Unlimited SSL</strong> Gratis Selamanya</p>",
+                "bestSeller": false
+            },
+            {
+                "name": "Personal",
+                "price": 58900,
+                "afterDiscount": 38900,
+                "registrationCount": 10017,
+                "buttonText": "Pilih Sekarang",
+                "feature": "<p><strong>2X RESOURCE POWER</strong><br /><strong>Unlimited</strong> Disk Space<br /><strong>Unlimited</strong> Bandwidth<br /><strong>Unlimited</strong> POP3 Email<br /><strong>Unlimited</strong> Databases<br /><strong>Unlimited</strong> Addon Domains<br /><strong>Instant</strong> Backup<br /><strong>Domain Gratis</strong> Selamanya<br /><strong>Unlimited SSL</strong> Gratis Selamanya<br /><strong>Private</strong> Name Server<br /><strong>Spam Assasin</strong> Mail Protection</p>",
+                "bestSeller": true
+            },
+            {
+                "name": "Bisnis",
+                "price": 109900,
+                "afterDiscount": 65900,
+                "registrationCount": 3552,
+                "buttonText": "Diskon 40%",
+                "feature": "<p><strong>3X RESOURCE POWER</strong><br /><strong>Unlimited</strong> Disk Space<br /><strong>Unlimited</strong> Bandwidth<br /><strong>Unlimited</strong> POP3 Email<br /><strong>Unlimited</strong> Databases<br /><strong>Unlimited</strong> Addon Domains<br /><strong>Magic Auto</strong> Backup &amp; Restore<br /><strong>Domain Gratis</strong> Selamanya<br /><strong>Unlimited SSL</strong> Gratis Selamanya<br /><strong>Private</strong> Name Server<br /><strong>Prioritas</strong> Layanan Support<br /><i class='fas fa-star text-primary'></i><i class='fas fa-star text-primary'></i><i class='fas fa-star text-primary'></i><i class='fas fa-star text-primary'></i><i class='fas fa-star text-primary'></i><br/> <strong>Spam Expert</strong> Pro Mail Protection</p>",
+                "bestSeller": false
+            }
+        ]
+    }
+}
